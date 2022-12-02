@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\bin\Debug\net6.0\Lab2.exe
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\bin\Debug\net6.0\Lab2.deps.json
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\bin\Debug\net6.0\Lab2.dll
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\bin\Debug\net6.0\ref\Lab2.dll
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\bin\Debug\net6.0\Lab2.pdb
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.dll
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\ref\Lab2.dll
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.pdb
+C:\Users\Max\Desktop\Лекции 02.09.2021\Программирование\1\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
